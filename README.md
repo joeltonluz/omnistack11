@@ -43,6 +43,8 @@ Extras:
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
 
+## Layout
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero.png" width="70%" height="70%" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero(1).png" width="70%" height="70%" />
@@ -67,4 +69,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ❤️ by **Rocketseat/mpgxc**
+Feito com ❤️ by **Rocketseat/joeltonluz**
