@@ -47,6 +47,8 @@ O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar
 
 <img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print03.jpg" width="50%" height="50%"><img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print04.jpeg" width="50%" height="50%">
 
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/certificado.jpg" width="70%" height="70%" />
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
