@@ -1,13 +1,9 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
-</h1>
 
-<h2 align="center">
-
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" src="https://github.com/Rocketseat/semana-omnistack-faq/raw/master/.github/assets/download.svg?sanitize=true" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
-</h2>
+</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,7 +39,7 @@ Extras:
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
 
-## Layout
+## 🔖 Layout
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero.png" width="70%" height="70%" />
 
