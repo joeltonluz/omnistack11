@@ -41,14 +41,14 @@ O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar
 
 ## 🔖 Layout
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero.png" width="70%" height="70%" />
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print01.jpg" width="70%" height="70%" />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero(1).png" width="70%" height="70%" />
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print02.jpg" width="70%" height="70%" />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/frontend/.github/Be%20The%20Hero(2).png" width="70%" height="70%" />
-</h1>
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print03.jpg" width="70%" height="70%" />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/mobile/.github/Screenshot_20200327-023045_Expo.jpg" width="50%" height="50%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/BeTheHero/master/mobile/.github/Screenshot_20200327-023103_Expo.jpg" width="50%" height="50%">
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print03.jpg" width="50%" height="50%">
+<img src="https://github.com/joeltonluz/omnistack11/blob/master/mobile/assets/print04.jpeg" width="50%" height="50%">
 
 ## 🤔 Como contribuir
 
